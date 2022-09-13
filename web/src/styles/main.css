@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .nlw-gradient {
+    @apply bg-gradient-to-r from-[#9572FC] via-[#43E7AD] to-[#E1D55D];
+  }
+}
