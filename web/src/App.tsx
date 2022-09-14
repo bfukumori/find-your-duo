@@ -16,7 +16,7 @@ export function App() {
           <img src="src/assets/game-1.png" alt="" />
           <div className="absolute bottom-0 left-0 w-full pt-16 pb-4 px-4 bg-gradient-to-t from-black/90">
             <strong className="font-bold text-white block ">
-              Couter-striker
+              Counter Striker
             </strong>
             <span className="text-sm text-zinc-300  block">4 anúncios</span>
           </div>
@@ -25,7 +25,7 @@ export function App() {
           <img src="src/assets/game-2.png" alt="" />
           <div className="absolute bottom-0 left-0 w-full pt-16 pb-4 px-4 bg-gradient-to-t from-black/90">
             <strong className="font-bold text-white block">
-              Couter-striker
+              League of Legends
             </strong>
             <span className="text-sm text-zinc-300  block">4 anúncios</span>
           </div>
@@ -33,27 +33,21 @@ export function App() {
         <a href="" className="relative rounded-lg overflow-hidden">
           <img src="src/assets/game-3.png" alt="" />
           <div className="absolute bottom-0 left-0 w-full pt-16 pb-4 px-4 bg-gradient-to-t from-black/90">
-            <strong className="font-bold text-white block">
-              Couter-striker
-            </strong>
+            <strong className="font-bold text-white block">Dota 2</strong>
             <span className="text-sm text-zinc-300  block">4 anúncios</span>
           </div>
         </a>
         <a href="" className="relative rounded-lg overflow-hidden">
           <img src="src/assets/game-4.png" alt="" />
           <div className="absolute bottom-0 left-0 w-full pt-16 pb-4 px-4 bg-gradient-to-t from-black/90">
-            <strong className="font-bold text-white block">
-              Couter-striker
-            </strong>
+            <strong className="font-bold text-white block">Apex</strong>
             <span className="text-sm text-zinc-300  block">4 anúncios</span>
           </div>
         </a>
         <a href="" className="relative rounded-lg overflow-hidden">
           <img src="src/assets/game-5.png" alt="" />
           <div className="absolute bottom-0 left-0 w-full pt-16 pb-4 px-4 bg-gradient-to-t from-black/90">
-            <strong className="font-bold text-white block">
-              Couter-striker
-            </strong>
+            <strong className="font-bold text-white block">Fortnite</strong>
             <span className="text-sm text-zinc-300  block">4 anúncios</span>
           </div>
         </a>
@@ -61,7 +55,7 @@ export function App() {
           <img src="src/assets/game-6.png" alt="" />
           <div className="absolute bottom-0 left-0 w-full pt-16 pb-4 px-4 bg-gradient-to-t from-black/90">
             <strong className="font-bold text-white block">
-              Couter-striker
+              World of Warcraft
             </strong>
             <span className="text-sm text-zinc-300  block">4 anúncios</span>
           </div>
