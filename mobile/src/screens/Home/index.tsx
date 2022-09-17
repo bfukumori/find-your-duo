@@ -22,7 +22,7 @@ export function Home({ navigation }: RootStackScreenProps<"home">) {
   }
 
   useEffect(() => {
-    fetch("http://192.168.15.8:3333/games")
+    fetch(`${process.env.API_URL}/games`)
       .then((response) => response.json())
       .then((data) => setGames(data));
   }, []);

@@ -24,13 +24,13 @@ export function Game({ navigation, route }: RootStackScreenProps<"game">) {
   }
 
   async function getDiscordUser(adsId: string) {
-    fetch(`http://192.168.15.8:3333/ads/${adsId}/discord`)
+    fetch(`${process.env.API_URL}/ads/${adsId}/discord`)
       .then((response) => response.json())
       .then((data) => setDiscordSelected(data.discord));
   }
 
   useEffect(() => {
-    fetch(`http://192.168.15.8:3333/games/${id}/ads`)
+    fetch(`${process.env.API_URL}/games/${id}/ads`)
       .then((response) => response.json())
       .then((data) => setDuos(data));
   }, []);
