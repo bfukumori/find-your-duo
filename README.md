@@ -42,16 +42,16 @@
 
 ---
 
-## Features
+## Next Features
 
-- [x] User authentication
-- [x] Routing (public/protected routes)
-- [x] List available cars for rent
-- [x] Rent a car by period
-- [x] List user's rented cars
-- [ ] CRUD operations for user
-- [ ] CRUD operations for cars
-- [ ] Offline first features
+- [ ] Add React Hook Form
+- [ ] Validation
+- [ ] Handling Errors (back and front)
+- [ ] Images Carrousel with Keen Slider
+- [ ] Twitch API integration
+- [ ] Game page - web version
+- [ ] Authentication
+- [ ] Backend notifications
 
 ---
 
