@@ -1,8 +1,10 @@
-- [] Substituir form atual para React Hook Form
-- [] Validação form
-- [] Handle Errors in Server
-- [] Carrosel nos games Keen Slider
-- [] Puxar games pela API da Twitch após o carrosel
-- [] Página do game com os anúncios
-- [] Autenticação
-- [] Notificação mobile backend
+### Next steps:
+
+- [] Add React Hook Form
+- [] Validation
+- [] Handling Errors (back and front)
+- [] Images Carrousel with Keen Slider
+- [] Twitch API integration
+- [] Game page - web version
+- [] Authentication
+- [] Backend notifications
