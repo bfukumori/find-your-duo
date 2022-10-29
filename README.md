@@ -24,7 +24,6 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#next-features">Next Features</a> •
   <a href="#how-it-works">How it works</a> • 
   <a href="#tech-stack">Tech Stack</a> • 
   <a href="#author">Author</a> • 
@@ -42,18 +41,6 @@
 
 ---
 
-## Next Features
-
-- [ ] Add React Hook Form
-- [ ] Validation
-- [ ] Handling Errors (back and front)
-- [ ] Images Carrousel with Keen Slider
-- [ ] Twitch API integration
-- [ ] Game page - web version
-- [ ] Authentication
-- [ ] Backend notifications
-
----
 
 ## How it works
 
